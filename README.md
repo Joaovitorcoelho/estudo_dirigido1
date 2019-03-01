@@ -1,1 +1,1 @@
-# estudo_dirigido1
+# repositório para desenvolvimento de estudo dirigido - programação 
